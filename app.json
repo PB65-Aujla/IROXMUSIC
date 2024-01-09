@@ -33,7 +33,7 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as OWNER.",
+        "description": "The user id of user whom you would like to add as OWNER.(Get this value from @IroXRobot on Telegram by /id)",
         "value": "",
         "required": true
       },
