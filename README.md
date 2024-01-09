@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/IR-O/IROXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/IR-O/IROXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/IR-O/IROXMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/IR-O/IROXMUSIC/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/IR-O/IROXMUSIC/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/IR-O/IROXMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
@@ -32,7 +32,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/IR-O/IROXMUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/IR-O/IROXMUSIC/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
