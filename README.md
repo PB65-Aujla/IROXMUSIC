@@ -1,5 +1,6 @@
 <h2 align="center">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IROXMUSIC+V2)](https://github.com/IR-O/IROXMUSIC)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IROXMUSIC+V2)](https://github.com/IR-O/IROXMUSIC)
 </h2>
 
 <h2 align="center">
@@ -11,8 +12,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/IR-O/IROXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/IR-O/IROXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/IR-O/IROXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/IR-O/IROXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/IR-O/IROXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/IR-O/IROXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/IR-O/IROXMUSIC/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/IR-O/IROXMUSIC/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/IR-O/IROXMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
